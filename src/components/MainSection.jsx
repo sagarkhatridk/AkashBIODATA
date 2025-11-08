@@ -26,6 +26,9 @@ export default function MainSection(props) {
           <p className="mt-2 text-2xl text-gray-700 z-20 font-bold">
             {props.data.current_position}
           </p>
+          <p className="mt-2 text-2xl text-gray-600 z-20 font-bold">
+            {props.data.location}
+          </p>
         </motion.div>
       </div>
       <motion.div
