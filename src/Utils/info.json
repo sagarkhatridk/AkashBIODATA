@@ -1,0 +1,86 @@
+{
+  "name": "Akash Khatri",
+  "current_position": " Embroidery Designer (Sketcher)",
+
+  "work_experience": [
+    {
+      "job_title": "Application Development Analyst",
+      "company_name": "Accenture",
+      "company_url": "",
+      "timeframe": "December 2022 - Present",
+      "description": [
+        "Worked on the ETL process using Azure Data Factory, managing data flow from start to finish to ensure smooth integration and transformation.",
+        "Designed and implemented efficient data pipelines to extract, transform, and load (ETL) data from diverse sources into Snowflake, optimizing data storage and retrieval processes.",
+        "Developed Python scripts to automate the generation of insert queries and table Data Definition Language (DDL), resulting in a 70% reduction in time spent on manual tasks.",
+        "Utilized MySQL and PostgreSQL for database management and optimization, enhancing data accessibility and query performance.",
+        "Documented ETL processes, data mappings, and system architecture to facilitate knowledge sharing and support ongoing maintenance and troubleshooting efforts."
+      ],
+      "technology_used": "Azure Data Factory, Snowflake, Python, MySQL, PostgreSQL"
+    },
+    {
+      "job_title": "Java Full Stack Developer Intern",
+      "company_name": "Shrine Software Pvt. Ltd.",
+      "company_url": "",
+      "timeframe": "January 2022 - June 2022",
+      "description": [
+        "Developed Java applications using the Spring Boot framework, ensuring robust and scalable solutions for diverse business needs.",
+        "Implemented REST APIs with JWT Authentication to secure data transmission and access in Spring Boot environments.",
+        "Leveraged Salesforce tools such as Apex, Lightning Web Components (LWC), Visualforce Pages, and SOQL queries to build and customize Salesforce applications."
+      ],
+      "technology_used": "Spring Boot, JWT Authentication, Apex, Lightning Web Components (LWC), Visualforce Pages, SOQL"
+    }
+  ],
+
+  "education": [
+    {
+      "institution_name": "L.D. College of Engineering",
+      "degree": "Bachelor of Engineering in Information Technology",
+      "timeframe": "June 2018 - July 2022",
+      "location": "Ahmedabad, India",
+      "cpi": 8.2,
+      "cgpa": 8.76
+    },
+    {
+      "institution_name": "Vivekanand Vidyalaya",
+      "degree": "Higher Secondary Certificate (H.S.C)",
+      "timeframe": "June 2017 - March 2018",
+      "location": "Ahmedabad, India",
+      "score": "77.06%"
+    },
+    {
+      "institution_name": "Vivekanand Vidyalaya",
+      "degree": "Secondary School Certificate (S.S.C)",
+      "timeframe": "June 2015 - March 2016",
+      "location": "Ahmedabad, India",
+      "score": "76.67%"
+    }
+  ],
+  "certifications": [
+    {
+      "certification_name": "Microsoft Certified: Power BI Data Analyst Associate (PL-300)",
+      "link": "https://learn.microsoft.com/api/credentials/share/en-us/JaykumarMandaviya-0400/E1E73A64F53BFF2C?sharingId=67D2291973632CE4"
+    },
+    {
+      "certification_name": "Microsoft Certified: Azure Data Engineer Associate (DP-203)",
+      "link": "https://learn.microsoft.com/api/credentials/share/en-us/JaykumarMandaviya-0400/5C6B127EF9F7E082?sharingId=67D2291973632CE4"
+    },
+    {
+      "certification_name": "Microsoft Certified: Azure Fundamentals (AZ-900)",
+      "link": "https://learn.microsoft.com/api/credentials/share/en-us/JaykumarMandaviya-0400/A70D55EA6209E598?sharingId=67D2291973632CE4"
+    },
+    {
+      "certification_name": "Databricks Certified Data Engineer Associate",
+      "link": "https://credentials.databricks.com/181ad5ba-7a4a-4cfe-a41e-1728141ffd19"
+    },
+    {
+      "certification_name": "Google Cloud Certified Cloud Digital Leader",
+      "link": "https://www.credential.net/7ebe6b84-e137-4e7a-85a5-957c7a53b204?key=d232b70feca0eee425a3bf2af0069ac157313aed3311de87aa1c68242e2234b6"
+    }
+  ],
+
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/jaymandaviya/",
+    "github": "https://github.com/JayMandaviyaDev/",
+    "twitter": "https://x.com/JayMandaviya17"
+  }
+}
