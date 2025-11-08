@@ -12,9 +12,9 @@ function App() {
       {/* <CertificationSection certifications={data.certifications}/> */}
       <BioDataInformation bioData={data.bioData}/>
 
-      <div className="fixed bottom-7 left-1/2 transform -translate-x-1/2">
+      {/* <div className="fixed bottom-7 left-1/2 transform -translate-x-1/2">
         <SocialMediaIcons />
-      </div>
+      </div> */}
     </>
   )
 }
