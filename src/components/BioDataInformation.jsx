@@ -19,7 +19,7 @@ const BioDataInformation = () => {
         { label: "Father", value: "Ileshkumar Vinodchandra Khatri (RIP)" },
         {
           label: "Elder Sister",
-          value: "Riya Chiragkumar Chudasama (Married)",
+          value: "Riya Chiragkumar Suthar (Married)",
         },
       ],
     },

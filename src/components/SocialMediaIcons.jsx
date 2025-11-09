@@ -1,13 +1,11 @@
-import React from 'react';
-import { motion } from 'framer-motion';
-import { FaEnvelope, FaGithub, FaLinkedinIn, FaTwitter } from 'react-icons/fa';
-import data from '../Utils/info.json';
+import React from "react";
+import { motion } from "framer-motion";
+import { FaEnvelope, FaGithub, FaLinkedinIn, FaTwitter, FaWhatsapp, FaInstagram } from "react-icons/fa";
+import data from "../Utils/info.json";
 
 const socialMediaLinks = [
-  { icon: <FaGithub />, url: data.social_links.github },
-  { icon: <FaTwitter />, url: data.social_links.twitter },
-  { icon: <FaEnvelope />, url: 'mailto:jay1704mandaviya@gmail.com' },
-  { icon: <FaLinkedinIn />, url: data.social_links.linkedin },
+  { icon: <FaInstagram />, url: data.social_links.instagram },
+  { icon: <FaWhatsapp />, url: data.social_links.whatsapp },
 ];
 
 const SocialMediaIcons = () => {
