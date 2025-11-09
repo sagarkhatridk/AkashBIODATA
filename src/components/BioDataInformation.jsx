@@ -11,12 +11,12 @@ const BioDataInformation = () => {
     { label: "Sister", value: "Riya Khatri (Married)" },
     { label: "Education", value: "Diploma in Embroidery Design" },
     { label: "Work", value: "Embroidery Designer (Sketcher)" },
-    { label: "Height", value: "5'5\"" },
+    { label: "Height", value: "5'6\"" },
     { label: "Weight", value: '60"' },
     { label: "Nationality", value: "Indian" },
     { label: "Religion", value: "Hindu" },
     { label: "Mother Tongue", value: "Gujarati" },
-    { label: "Hobbies", value: "Designing, Sketching, Reading" },
+    { label: "Hobbies", value: "Designing, Sketching, Travelling" },
   ];
 
   return (
