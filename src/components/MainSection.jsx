@@ -12,6 +12,8 @@ export default function MainSection(props) {
           transition={{ duration: 0.6 }}
           src={akashImg}
           alt="Akash Khatri"
+          height={400}
+          width={400}
           className="object-cover rounded-lg -rotate-3 drop-shadow-lg"
         />
         <motion.div
